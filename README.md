@@ -4,7 +4,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at https://birthday-wisher.netlify.app/
+You can view a live demo over at https://davidkrisztian.github.io/birthday/
 
 To get It running locally:
 
